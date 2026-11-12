@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ### 📜 Certifications & Foundational Skills
 
-- **Cybersecurity:** [Cisco Introduction to Cybersecurity](https://www.credly.com/badges/604bdda1-b19d-47d3-9bad-ba18064b21a9) *(Threat Landscape, Vulnerabilities, Online Privacy, Defense Principles)*
-- **Networking:** [Cisco CCNA](https://www.credly.com/badges/0466c05a-2c92-4dcf-8baf-341511ff9849) *(Routing, Switching, IP Addressing, Network Security Fundamentals)*
-- **Programming:** [Cisco Python Essentials 1](https://www.credly.com/badges/4a83ffb1-7001-40b4-9beb-b31b863d5c53) *(Scripting, Data Structures, Automation Basics)*
+- **Cybersecurity:** [Cisco Introduction to Cybersecurity](https://www.credly.com/badges/604bdda1-b19d-47d3-9bad-ba18064b21a9/public_url) *(Threat Landscape, Vulnerabilities, Online Privacy, Defense Principles)*
+- **Networking:** [Cisco CCNA](https://www.credly.com/badges/0466c05a-2c92-4dcf-8baf-341511ff9849/public_url) *(Routing, Switching, IP Addressing, Network Security Fundamentals)*
+- **Programming:** [Cisco Python Essentials 1](https://www.credly.com/badges/4a83ffb1-7001-40b4-9beb-b31b863d5c53/public_url) *(Scripting, Data Structures, Automation Basics)*
