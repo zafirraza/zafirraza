@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 - **Focus Track:** Cybersecurity & Cloud Identity (SC-900)
 - **Completed:** Introduction to Security, Compliance, and Identity Concepts
 - 🏅 **Achievement Badge:** [View My SC-900 Badge](https://learn.microsoft.com/api/achievements/share/en-us/ZAFIRRAZA-1231/7D73TUCZ?sharingId=328E502FD6ECFF57)
+
+### 📜 Certifications & Foundational Skills
+
+- **Networking:** Cisco CCNA *(Routing, Switching, IP Addressing, Network Security Fundamentals)*
+- **Programming:** Cisco Python Essentials 1 *(Scripting, Data Structures, Automation Basics)*
