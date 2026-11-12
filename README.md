@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🛡️ Microsoft Cybersecurity Learning Journey
+
+- **Program:** Microsoft Learn Student Ambassador (Alpha Milestone in Progress)
+- **Focus Track:** Cybersecurity & Cloud Identity (SC-900)
+- **Completed:** Introduction to Security, Compliance, and Identity Concepts
+- 🏅 **Achievement Badge:** [View My SC-900 Badge](https://learn.microsoft.com/api/achievements/share/en-us/ZAFIRRAZA-1231/7D73TUCZ?sharingId=328E502FD6ECFF57)
